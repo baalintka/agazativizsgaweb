@@ -1,0 +1,26 @@
+body{
+    font-family:Arial, sans-serif ;
+    background-image: url(kepek/black.png);
+}
+header{
+    background-image: url(kepek/game.jpg);
+    height: 300px;
+    background-size: cover;
+}
+nav{
+    font-weight: bold;
+}
+main{
+    
+   width: 90%;
+   max-width: 900px;
+   margin: auto;
+   background-color: rgb(206, 206, 206);
+}
+article{
+    text-align: justify;
+    font-size: 10px;
+}
+.h1{
+    font-size: 15px;
+}
